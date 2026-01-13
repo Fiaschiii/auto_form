@@ -1,8 +1,6 @@
 import time 
 import pyautogui
 from playwright.sync_api import sync_playwright
-import pyperclip
-import keyboard
 import pandas as pd
 
 
