@@ -1,0 +1,151 @@
+﻿Nome,Sobrenome,Setor,ID da Empresa,Cargo
+Lucas,Silva,Marketing,1001,Social Media
+Mariana,Araújo,Marketing,1002,Social Media
+Pedro,Azevedo,Logística,1003,Coordenador de Logística
+Renata,Alves,Compras,1004,Assistente de Compras
+Camila,Rodrigues,Tecnologia da Informação,1005,Analista de Sistemas
+Rafael,Silva,Financeiro,1006,Assistente Financeiro
+Victor,Gomes,Compras,1007,Analista de Compras
+Lucas,Rodrigues,Compras,1008,Analista de Compras
+Natália,Fernandes,Logística,1009,Coordenador de Logística
+Gabriel,Fernandes,Tecnologia da Informação,1010,Analista de Sistemas
+Sabrina,Rocha,Logística,1011,Coordenador de Logística
+Tatiane,Martins,Financeiro,1012,Assistente Financeiro
+Beatriz,Pereira,Atendimento ao Cliente,1013,Supervisor de Atendimento
+Yasmin,Silva,Tecnologia da Informação,1014,Desenvolvedor
+Beatriz,Lima,Atendimento ao Cliente,1015,Supervisor de Atendimento
+Daniel,Nogueira,Financeiro,1016,Assistente Financeiro
+Lucas,Moreira,Marketing,1017,Analista de Marketing
+Fernanda,Rodrigues,Atendimento ao Cliente,1018,Analista de Atendimento
+João,Alves,Compras,1019,Assistente de Compras
+Sabrina,Nogueira,Compras,1020,Analista de Compras
+Camila,Araújo,Jurídico,1021,Analista Jurídico
+Natália,Silva,Financeiro,1022,Analista Financeiro
+Bruno,Pereira,Financeiro,1023,Contador
+Rafael,Moreira,Financeiro,1024,Assistente Financeiro
+Tatiane,Fernandes,Comercial,1025,Gerente Comercial
+Gabriela,Fernandes,Recursos Humanos,1026,Assistente de RH
+Daniel,Fernandes,Atendimento ao Cliente,1027,Analista de Atendimento
+Matheus,Araújo,Tecnologia da Informação,1028,Engenheiro de Software
+Vanessa,Silva,Comercial,1029,Gerente Comercial
+Henrique,Fernandes,Operações,1030,Supervisor de Operações
+Tatiane,Mendes,Tecnologia da Informação,1031,Desenvolvedor
+Vanessa,Oliveira,Comercial,1032,Executivo de Vendas
+Victor,Teixeira,Tecnologia da Informação,1033,Analista de Suporte
+Gabriela,Silva,Tecnologia da Informação,1034,Engenheiro de Software
+Eduardo,Alves,Jurídico,1035,Advogado
+Henrique,Martins,Financeiro,1036,Analista Financeiro
+Yasmin,Moreira,Logística,1037,Coordenador de Logística
+Marcos,Rodrigues,Financeiro,1038,Assistente Financeiro
+Bruno,Alves,Comercial,1039,Gerente Comercial
+Igor,Araújo,Comercial,1040,Vendedor
+Igor,Silva,Logística,1041,Analista de Logística
+João,Fernandes,Marketing,1042,Coordenador de Marketing
+Matheus,Moreira,Tecnologia da Informação,1043,Analista de Sistemas
+Mariana,Gomes,Compras,1044,Assistente de Compras
+Beatriz,Fernandes,Financeiro,1045,Contador
+João,Martins,Marketing,1046,Social Media
+Natália,Nogueira,Jurídico,1047,Assistente Jurídico
+Ana,Azevedo,Financeiro,1048,Assistente Financeiro
+Rafael,Teixeira,Operações,1049,Supervisor de Operações
+Rafael,Gomes,Financeiro,1050,Assistente Financeiro
+Ana,Mendes,Atendimento ao Cliente,1051,Supervisor de Atendimento
+Eduardo,Nogueira,Operações,1052,Analista de Operações
+Thiago,Teixeira,Marketing,1053,Social Media
+João,Azevedo,Jurídico,1054,Assistente Jurídico
+William,Nogueira,Marketing,1055,Coordenador de Marketing
+Renata,Lima,Logística,1056,Analista de Logística
+Vanessa,Azevedo,Atendimento ao Cliente,1057,Analista de Atendimento
+Patrícia,Gomes,Comercial,1058,Executivo de Vendas
+Rodrigo,Pereira,Financeiro,1059,Analista Financeiro
+Henrique,Teixeira,Recursos Humanos,1060,Coordenador de RH
+Yasmin,Fernandes,Marketing,1061,Social Media
+Carolina,Pereira,Atendimento ao Cliente,1062,Analista de Atendimento
+Sabrina,Costa,Operações,1063,Supervisor de Operações
+Carlos,Santos,Marketing,1064,Coordenador de Marketing
+Beatriz,Rodrigues,Operações,1065,Analista de Operações
+Juliana,Azevedo,Atendimento ao Cliente,1066,Analista de Atendimento
+Felipe,Santos,Marketing,1067,Social Media
+Rafael,Oliveira,Tecnologia da Informação,1068,Desenvolvedor
+Gabriel,Alves,Recursos Humanos,1069,Assistente de RH
+André,Barbosa,Logística,1070,Analista de Logística
+Beatriz,Nogueira,Marketing,1071,Social Media
+Igor,Azevedo,Atendimento ao Cliente,1072,Analista de Atendimento
+Thiago,Martins,Comercial,1073,Vendedor
+Tatiane,Silva,Jurídico,1074,Advogado
+Rodrigo,Araújo,Compras,1075,Analista de Compras
+Thiago,Mendes,Atendimento ao Cliente,1076,Analista de Atendimento
+Sabrina,Barbosa,Atendimento ao Cliente,1077,Analista de Atendimento
+Larissa,Nogueira,Recursos Humanos,1078,Assistente de RH
+Juliana,Martins,Marketing,1079,Coordenador de Marketing
+Carlos,Mendes,Tecnologia da Informação,1080,Analista de Sistemas
+Larissa,Alves,Operações,1081,Supervisor de Operações
+Rafael,Ribeiro,Financeiro,1082,Contador
+Carlos,Pereira,Marketing,1083,Coordenador de Marketing
+Henrique,Barbosa,Jurídico,1084,Advogado
+Gabriel,Pereira,Recursos Humanos,1085,Analista de RH
+Thiago,Rocha,Comercial,1086,Vendedor
+Tatiane,Alves,Operações,1087,Supervisor de Operações
+Natália,Alves,Tecnologia da Informação,1088,Engenheiro de Software
+Ana,Fernandes,Marketing,1089,Coordenador de Marketing
+William,Rodrigues,Atendimento ao Cliente,1090,Analista de Atendimento
+Marcos,Santos,Tecnologia da Informação,1091,Analista de Suporte
+Patrícia,Moreira,Tecnologia da Informação,1092,Analista de Suporte
+Gabriela,Ribeiro,Logística,1093,Analista de Logística
+Eduardo,Moreira,Financeiro,1094,Assistente Financeiro
+Larissa,Lima,Recursos Humanos,1095,Assistente de RH
+Pedro,Rocha,Jurídico,1096,Assistente Jurídico
+Gabriela,Araújo,Recursos Humanos,1097,Coordenador de RH
+Camila,Martins,Operações,1098,Supervisor de Operações
+Pedro,Moreira,Financeiro,1099,Assistente Financeiro
+Camila,Oliveira,Logística,1100,Analista de Logística
+Mariana,Nogueira,Logística,1101,Coordenador de Logística
+Gabriel,Gomes,Compras,1102,Assistente de Compras
+William,Costa,Compras,1103,Assistente de Compras
+William,Fernandes,Recursos Humanos,1104,Analista de RH
+Beatriz,Moreira,Logística,1105,Analista de Logística
+Daniela,Costa,Compras,1106,Analista de Compras
+Eduardo,Santos,Comercial,1107,Gerente Comercial
+Juliana,Rodrigues,Recursos Humanos,1108,Analista de RH
+Felipe,Alves,Compras,1109,Assistente de Compras
+Bruno,Lima,Atendimento ao Cliente,1110,Analista de Atendimento
+Marcos,Lima,Comercial,1111,Executivo de Vendas
+Natália,Pereira,Marketing,1112,Social Media
+Igor,Lima,Compras,1113,Analista de Compras
+Gabriela,Rodrigues,Atendimento ao Cliente,1114,Analista de Atendimento
+William,Mendes,Jurídico,1115,Advogado
+Vanessa,Araújo,Compras,1116,Assistente de Compras
+Felipe,Azevedo,Marketing,1117,Social Media
+Juliana,Ribeiro,Atendimento ao Cliente,1118,Analista de Atendimento
+Fernanda,Moreira,Financeiro,1119,Contador
+Yasmin,Alves,Marketing,1120,Coordenador de Marketing
+Gabriela,Teixeira,Compras,1121,Assistente de Compras
+Juliana,Oliveira,Recursos Humanos,1122,Assistente de RH
+Fernanda,Costa,Logística,1123,Analista de Logística
+Patrícia,Azevedo,Recursos Humanos,1124,Coordenador de RH
+Sabrina,Moreira,Logística,1125,Analista de Logística
+Matheus,Alves,Comercial,1126,Executivo de Vendas
+Felipe,Araújo,Recursos Humanos,1127,Assistente de RH
+Ana,Moreira,Logística,1128,Coordenador de Logística
+André,Azevedo,Operações,1129,Supervisor de Operações
+Rodrigo,Nogueira,Logística,1130,Coordenador de Logística
+Juliana,Silva,Operações,1131,Analista de Operações
+Patrícia,Rocha,Operações,1132,Supervisor de Operações
+Marcos,Silva,Operações,1133,Analista de Operações
+Felipe,Fernandes,Marketing,1134,Social Media
+William,Barbosa,Jurídico,1135,Analista Jurídico
+André,Lima,Atendimento ao Cliente,1136,Supervisor de Atendimento
+Camila,Alves,Logística,1137,Analista de Logística
+Beatriz,Mendes,Financeiro,1138,Analista Financeiro
+Yasmin,Azevedo,Compras,1139,Analista de Compras
+Rafael,Nogueira,Atendimento ao Cliente,1140,Supervisor de Atendimento
+Thiago,Barbosa,Financeiro,1141,Analista Financeiro
+Eduardo,Pereira,Financeiro,1142,Analista Financeiro
+Rafael,Rodrigues,Tecnologia da Informação,1143,Analista de Suporte
+Pedro,Gomes,Recursos Humanos,1144,Analista de RH
+Beatriz,Martins,Compras,1145,Analista de Compras
+Matheus,Gomes,Recursos Humanos,1146,Assistente de RH
+Carolina,Teixeira,Operações,1147,Analista de Operações
+Henrique,Nogueira,Tecnologia da Informação,1148,Analista de Sistemas
+Marcos,Araújo,Comercial,1149,Gerente Comercial
+Marcos,Martins,Tecnologia da Informação,1150,Desenvolvedor

@@ -3,9 +3,15 @@ import pyautogui
 from playwright.sync_api import sync_playwright
 import pyperclip
 import keyboard
+import pandas as pd
 
 
-# Primeira automação...
+# importar os dados da tabela de funcionários
+tabela = pd.read_csv("funcionarios_brasil_150.csv")
+
+
+
+# Automação para preenchimento de formulário Google Forms
 print("Início do código...")
 def main():
 
@@ -21,7 +27,7 @@ def main():
         
         time.sleep(1)
         pyautogui.hotkey("win", "up")
-
+        
         # nome  
         time.sleep(1)
         page.fill('xpath=//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input', "Miguel")
