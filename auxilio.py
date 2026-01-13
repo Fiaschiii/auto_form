@@ -1,7 +1,10 @@
 import pandas as pd 
 
-tabela = pd.read_csv("funcionarios_brasil_150.csv")
-print(tabela)
+tabela1 = pd.read_csv("funcionarios_brasil_150.csv")
+print(tabela1)
+
+#   EXPLANAÇÃO DA TABELA DE FUNCIONÁRIOS 
+
 
 #         Nome  Sobrenome  ... ID da Empresa                     Cargo
 #0       Lucas      Silva  ...          1001              Social Media
